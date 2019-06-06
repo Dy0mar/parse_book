@@ -1,0 +1,6 @@
+/log/*log
+/.idea/*
+/env/*
+/books/*
+*.pyc
+books.txt
